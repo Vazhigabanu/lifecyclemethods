@@ -132,7 +132,8 @@ onStart()
 
 onPause()
 
-<img width="1622" height="911" alt="Screenshot 2026-10-27 092334" src="https://github.com/user-attachments/assets/97122ed7-c634-412c-8489-aae591b45487" />
+<img width="1487" height="843" alt="Screenshot 2026-10-27 102146" src="https://github.com/user-attachments/assets/2d799484-0b11-4906-85e9-6747993473c2" />
+
 
 onResume()
 
