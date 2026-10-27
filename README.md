@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
+Developed by:VAZHIGA BANU S 
+Registeration Number :212225040484
 */
 ```
 MAINACTIVITY.JAVA
@@ -120,13 +120,27 @@ ACTIVITY_MAIN.XML
 ```
 
 
-
-
-
-
 ## OUTPUT
+onCreate()
+
+<img width="1917" height="1192" alt="Screenshot 2026-10-23 092457" src="https://github.com/user-attachments/assets/117dab10-bcd4-46a9-9caa-b4e601dddf03" />
+
+onStart()
+
+<img width="1485" height="843" alt="Screenshot 2026-10-27 101851" src="https://github.com/user-attachments/assets/8aa27a26-b37b-449a-aae8-c093454d16db" />
 
 
+onPause()
+
+<img width="1622" height="911" alt="Screenshot 2026-10-27 092334" src="https://github.com/user-attachments/assets/97122ed7-c634-412c-8489-aae591b45487" />
+
+onResume()
+
+<img width="1912" height="1198" alt="Screenshot 2026-10-23 092522" src="https://github.com/user-attachments/assets/46577dc4-eb19-4dfb-be9c-8927afa2a90c" />
+
+activity_main.xml
+
+<img width="1917" height="1195" alt="Screenshot 2026-10-27 100824" src="https://github.com/user-attachments/assets/7b22e384-9a5b-48bb-8ef2-29514be81c4f" />
 
 
 ## RESULT
