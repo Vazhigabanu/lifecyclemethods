@@ -123,21 +123,27 @@ ACTIVITY_MAIN.XML
 ## OUTPUT
 onCreate()
 
-<img width="1917" height="1192" alt="Screenshot 2026-10-23 092457" src="https://github.com/user-attachments/assets/117dab10-bcd4-46a9-9caa-b4e601dddf03" />
+<img width="1917" height="1190" alt="Screenshot 2026-10-27 114202" src="https://github.com/user-attachments/assets/2d3a9246-6808-430d-9ce7-0166804a7688" />
+
+
 
 onStart()
 
-<img width="1485" height="843" alt="Screenshot 2026-10-27 101851" src="https://github.com/user-attachments/assets/8aa27a26-b37b-449a-aae8-c093454d16db" />
+<img width="1917" height="1192" alt="Screenshot 2026-10-27 114225" src="https://github.com/user-attachments/assets/eedc0c18-340c-478c-8c52-8170d8ee2ce8" />
+
 
 
 onPause()
 
-<img width="1487" height="843" alt="Screenshot 2026-10-27 102146" src="https://github.com/user-attachments/assets/2d799484-0b11-4906-85e9-6747993473c2" />
+<img width="1917" height="1192" alt="Screenshot 2026-10-27 114307" src="https://github.com/user-attachments/assets/382b7dbd-528e-4480-a2b9-80a7d53f6a41" />
+
 
 
 onResume()
 
-<img width="1912" height="1198" alt="Screenshot 2026-10-23 092522" src="https://github.com/user-attachments/assets/46577dc4-eb19-4dfb-be9c-8927afa2a90c" />
+<img width="1916" height="1190" alt="Screenshot 2026-10-27 114208" src="https://github.com/user-attachments/assets/839ce285-205b-486b-ac52-285501403409" />
+
+
 
 activity_main.xml
 
